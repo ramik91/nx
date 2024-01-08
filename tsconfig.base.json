@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@jake/my-plugin": ["my-plugin/src/index.ts"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "**/*/node_modules",
+    "**/*/libs",
+    "**/*/dist",
+    "**/*/build",
+    "dist",
+    "tmp",
+    "coverage"
+  ]
+}

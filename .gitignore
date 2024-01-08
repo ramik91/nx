@@ -4,5 +4,10 @@
 # NPM and Node specific files
 node_modules
 .cache
-
 .nx/cache
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+/.bin

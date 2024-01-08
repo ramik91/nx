@@ -11,5 +11,8 @@
     "node": "18.x",
     "yarn": "^1.20.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "nx": {
+    "targets": {}
+  }
 }

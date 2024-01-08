@@ -4,3 +4,5 @@
 # NPM and Node specific files
 node_modules
 .cache
+
+.nx/cache
